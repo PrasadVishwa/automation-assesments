@@ -1,0 +1,704 @@
+2022-04-14 16:11:33,639  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-14 16:11:33,639  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-14 16:11:33,639  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-14 16:11:33,639  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-14 16:11:43,723  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:43,852  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:43,906  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:44,384  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:44,486  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:44,543  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:44,659  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:44,672  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:23 - Apply the assertions
+2022-04-14 16:11:44,675  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:25 - Checking the results
+2022-04-14 16:11:44,704  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:44,708  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:44,822  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:44,840  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:44,882  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:44,890  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:45,146  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - Click on menu Button
+2022-04-14 16:11:45,207  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:45,286  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:45,589  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:20 - Clisk on bag button
+2022-04-14 16:11:45,592  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:28 - Apply the assertions
+2022-04-14 16:11:45,593  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:30 - Checking the results
+2022-04-14 16:11:45,654  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:45,898  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:42 - Click on Logout Button
+2022-04-14 16:11:46,554  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:18 - Click on menu Button
+2022-04-14 16:11:46,675  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-14 16:11:46,925  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-14 16:11:46,927  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:21 - Click on Logout Button
+2022-04-14 16:11:46,930  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:26 - Apply the assertion
+2022-04-14 16:11:46,931  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:28 - Checking the results
+2022-04-14 16:11:47,434  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:20 - Click on cart button
+2022-04-14 16:11:47,476  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:25 - 6
+2022-04-14 16:11:47,476  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:27 - Apply the assertions 
+2022-04-14 16:11:47,476  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:29 - Checkind the results
+2022-04-14 16:11:47,988  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:78 - Program end
+2022-04-14 16:11:48,386  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-14 16:11:50,599  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-14 16:11:50,640  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-14 16:11:50,698  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-14 16:11:51,078  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-14 16:11:55,626  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:55,653  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:55,757  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:55,777  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:55,817  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:55,826  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-14 16:11:55,861  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:55,897  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:55,964  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:55,964  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-14 16:11:56,051  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:56,088  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:56,099  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:56,117  INFO [TestNG-test=ChromeTest-2] sauceDemo5:23 - Apply the assertions
+2022-04-14 16:11:56,118  INFO [TestNG-test=ChromeTest-2] sauceDemo5:25 - Checking the results
+2022-04-14 16:11:56,151  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-14 16:11:56,300  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:56,412  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-14 16:11:56,439  INFO [TestNG-test=ChromeTest-2] sauceDemo5:39 - Click on menu Button
+2022-04-14 16:11:56,548  INFO [TestNG-test=ChromeTest-4] sauceDemo5:20 - Clisk on bag button
+2022-04-14 16:11:56,565  INFO [TestNG-test=ChromeTest-4] sauceDemo5:28 - Apply the assertions
+2022-04-14 16:11:56,567  INFO [TestNG-test=ChromeTest-4] sauceDemo5:30 - Checking the results
+2022-04-14 16:11:56,606  INFO [TestNG-test=ChromeTest-2] sauceDemo5:42 - Click on Logout Button
+2022-04-14 16:11:56,632  INFO [TestNG-test=ChromeTest-1] sauceDemo5:18 - Click on menu Button
+2022-04-14 16:11:56,762  INFO [TestNG-test=ChromeTest-1] sauceDemo5:21 - Click on Logout Button
+2022-04-14 16:11:56,773  INFO [TestNG-test=ChromeTest-1] sauceDemo5:26 - Apply the assertion
+2022-04-14 16:11:56,774  INFO [TestNG-test=ChromeTest-1] sauceDemo5:28 - Checking the results
+2022-04-14 16:11:57,152  INFO [TestNG-test=ChromeTest-3] sauceDemo5:20 - Click on cart button
+2022-04-14 16:11:57,187  INFO [TestNG-test=ChromeTest-3] sauceDemo5:25 - 6
+2022-04-14 16:11:57,187  INFO [TestNG-test=ChromeTest-3] sauceDemo5:27 - Apply the assertions 
+2022-04-14 16:11:57,187  INFO [TestNG-test=ChromeTest-3] sauceDemo5:29 - Checkind the results
+2022-04-14 16:11:57,322  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-14 16:11:57,351  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-14 16:11:57,491  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-14 16:11:57,899  INFO [TestNG-test=ChromeTest-3] sauceDemo5:78 - Program end
+2022-04-17 09:06:34,670  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:06:34,733  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:06:34,733  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:06:34,764  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:06:39,732  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:39,732  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:39,842  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:39,920  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:39,936  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:39,936  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:40,024  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:40,030  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:40,061  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:40,108  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:40,108  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:40,250  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:40,641  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:40,657  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 09:06:40,657  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:22 - Checking the results
+2022-04-17 09:06:40,813  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:40,845  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:40,908  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:41,080  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 09:06:41,347  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - Click on Logout Button
+2022-04-17 09:06:41,630  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 09:06:41,637  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 09:06:41,638  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:31 - Checking the results
+2022-04-17 09:06:41,736  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 09:06:42,707  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 09:06:43,052  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-17 09:06:43,098  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:78 - Program end
+2022-04-17 09:06:43,161  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-17 09:06:45,632  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:06:45,913  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:06:45,938  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:06:46,024  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:06:47,706  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:47,898  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:48,018  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:48,026  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:48,066  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:48,210  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:48,210  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:48,274  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 09:06:48,306  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:48,405  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:48,413  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:48,509  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 09:06:48,639  INFO [TestNG-test=ChromeTest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 09:06:48,644  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:48,678  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:48,678  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 09:06:48,773  INFO [TestNG-test=ChromeTest-1] sauceDemo5:22 - Click on Logout Button
+2022-04-17 09:06:48,813  INFO [TestNG-test=ChromeTest-1] sauceDemo5:27 - Apply the assertion
+2022-04-17 09:06:48,813  INFO [TestNG-test=ChromeTest-1] sauceDemo5:29 - Checking the results
+2022-04-17 09:06:48,829  INFO [TestNG-test=ChromeTest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 09:06:48,861  INFO [TestNG-test=ChromeTest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 09:06:48,861  INFO [TestNG-test=ChromeTest-4] sauceDemo5:31 - Checking the results
+2022-04-17 09:06:48,990  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:06:49,006  INFO [TestNG-test=ChromeTest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 09:06:49,008  INFO [TestNG-test=ChromeTest-2] sauceDemo5:22 - Checking the results
+2022-04-17 09:06:49,340  INFO [TestNG-test=ChromeTest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 09:06:49,420  INFO [TestNG-test=ChromeTest-2] sauceDemo5:39 - Click on Logout Button
+2022-04-17 09:06:49,621  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-17 09:06:49,664  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-17 09:06:49,693  INFO [TestNG-test=ChromeTest-3] sauceDemo5:21 - Click on cart button
+2022-04-17 09:06:49,734  INFO [TestNG-test=ChromeTest-3] sauceDemo5:26 - 6
+2022-04-17 09:06:49,734  INFO [TestNG-test=ChromeTest-3] sauceDemo5:28 - Apply the assertions 
+2022-04-17 09:06:49,736  INFO [TestNG-test=ChromeTest-3] sauceDemo5:30 - Checkind the results
+2022-04-17 09:06:50,115  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-17 09:06:50,427  INFO [TestNG-test=ChromeTest-3] sauceDemo5:78 - Program end
+2022-04-17 09:10:19,920  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:10:19,920  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:10:19,920  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:10:20,444  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 09:10:22,106  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:22,325  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:22,403  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:22,733  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:22,749  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 09:10:22,749  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:22 - Checking the results
+2022-04-17 09:10:22,960  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:22,966  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:23,093  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:23,093  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:23,156  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:23,156  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:23,172  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 09:10:23,172  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:23,376  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:23,455  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:23,471  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - Click on Logout Button
+2022-04-17 09:10:23,783  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:23,924  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:24,191  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 09:10:24,191  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 09:10:24,191  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:31 - Checking the results
+2022-04-17 09:10:24,206  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:24,827  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 09:10:25,125  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 09:10:25,404  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-17 09:10:26,015  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:21 - Click on cart button
+2022-04-17 09:10:26,046  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:26 - 6
+2022-04-17 09:10:26,052  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:28 - Apply the assertions 
+2022-04-17 09:10:26,052  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:30 - Checkind the results
+2022-04-17 09:10:26,155  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:78 - Program end
+2022-04-17 09:10:26,997  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-17 09:10:28,768  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:10:28,861  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:10:28,933  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:10:29,004  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 09:10:32,283  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:32,451  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:32,515  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:32,555  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:32,571  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 09:10:32,701  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:32,733  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:32,749  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:32,789  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 09:10:32,858  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:32,890  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:32,962  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 09:10:32,978  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:32,994  INFO [TestNG-test=ChromeTest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 09:10:32,994  INFO [TestNG-test=ChromeTest-2] sauceDemo5:22 - Checking the results
+2022-04-17 09:10:33,106  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:33,154  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:33,217  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 09:10:33,337  INFO [TestNG-test=ChromeTest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 09:10:33,353  INFO [TestNG-test=ChromeTest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 09:10:33,369  INFO [TestNG-test=ChromeTest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 09:10:33,369  INFO [TestNG-test=ChromeTest-4] sauceDemo5:31 - Checking the results
+2022-04-17 09:10:33,443  INFO [TestNG-test=ChromeTest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 09:10:33,498  INFO [TestNG-test=ChromeTest-2] sauceDemo5:39 - Click on Logout Button
+2022-04-17 09:10:33,627  INFO [TestNG-test=ChromeTest-1] sauceDemo5:22 - Click on Logout Button
+2022-04-17 09:10:33,635  INFO [TestNG-test=ChromeTest-1] sauceDemo5:27 - Apply the assertion
+2022-04-17 09:10:33,643  INFO [TestNG-test=ChromeTest-1] sauceDemo5:29 - Checking the results
+2022-04-17 09:10:34,239  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-17 09:10:34,306  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-17 09:10:34,378  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-17 09:10:35,232  INFO [TestNG-test=ChromeTest-3] sauceDemo5:78 - Program end
+2022-04-17 10:18:13,358  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:18:13,358  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:18:13,358  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:18:13,852  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:18:18,845  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:19,011  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:19,090  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:19,278  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:19,404  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:19,482  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:19,529  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:19,655  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:19,718  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:19,843  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:19,843  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:19,859  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 10:18:19,859  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:22 - Checking the results
+2022-04-17 10:18:20,094  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:20,220  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:20,267  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:20,471  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:20,800  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 10:18:20,894  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 10:18:21,035  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:21,318  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 10:18:21,318  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 10:18:21,318  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:31 - Checking the results
+2022-04-17 10:18:21,647  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:22 - Click on Logout Button
+2022-04-17 10:18:21,651  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:27 - Apply the assertion
+2022-04-17 10:18:21,651  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:29 - Checking the results
+2022-04-17 10:18:22,102  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 10:18:22,118  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:21 - Click on cart button
+2022-04-17 10:18:22,152  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:26 - 6
+2022-04-17 10:18:22,152  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:28 - Apply the assertions 
+2022-04-17 10:18:22,152  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:30 - Checkind the results
+2022-04-17 10:18:22,619  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-17 10:18:22,901  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:78 - Program end
+2022-04-17 10:18:23,292  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-17 10:18:25,119  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:18:25,273  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:18:25,286  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:18:25,298  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:18:30,135  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:30,287  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:30,375  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:30,527  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:30,535  INFO [TestNG-test=ChromeTest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 10:18:30,535  INFO [TestNG-test=ChromeTest-2] sauceDemo5:22 - Checking the results
+2022-04-17 10:18:30,759  INFO [TestNG-test=ChromeTest-2] sauceDemo5:36 - Click on menu Button
+2022-04-17 10:18:30,831  INFO [TestNG-test=ChromeTest-2] sauceDemo5:39 - Click on Logout Button
+2022-04-17 10:18:30,919  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:31,086  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:31,191  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:31,336  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:31,424  INFO [TestNG-test=ChromeTest-4] sauceDemo5:21 - Clisk on bag button
+2022-04-17 10:18:31,432  INFO [TestNG-test=ChromeTest-4] sauceDemo5:29 - Apply the assertions
+2022-04-17 10:18:31,432  INFO [TestNG-test=ChromeTest-4] sauceDemo5:31 - Checking the results
+2022-04-17 10:18:31,544  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-17 10:18:31,617  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:31,762  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:31,873  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:31,921  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:18:32,056  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:32,072  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:18:32,112  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-17 10:18:32,207  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:18:32,368  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:18:32,627  INFO [TestNG-test=ChromeTest-1] sauceDemo5:19 - Click on menu Button
+2022-04-17 10:18:32,714  INFO [TestNG-test=ChromeTest-1] sauceDemo5:22 - Click on Logout Button
+2022-04-17 10:18:32,722  INFO [TestNG-test=ChromeTest-1] sauceDemo5:27 - Apply the assertion
+2022-04-17 10:18:32,722  INFO [TestNG-test=ChromeTest-1] sauceDemo5:29 - Checking the results
+2022-04-17 10:18:32,866  INFO [TestNG-test=ChromeTest-3] sauceDemo5:21 - Click on cart button
+2022-04-17 10:18:32,921  INFO [TestNG-test=ChromeTest-3] sauceDemo5:26 - 6
+2022-04-17 10:18:32,921  INFO [TestNG-test=ChromeTest-3] sauceDemo5:28 - Apply the assertions 
+2022-04-17 10:18:32,921  INFO [TestNG-test=ChromeTest-3] sauceDemo5:30 - Checkind the results
+2022-04-17 10:18:33,407  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-17 10:18:33,688  INFO [TestNG-test=ChromeTest-3] sauceDemo5:78 - Program end
+2022-04-17 10:50:51,705  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:50:51,705  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:50:51,705  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:50:52,770  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:51:00,385  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:00,630  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:00,855  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:02,235  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:02,375  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:02,395  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:02,421  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:02,437  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:02,475  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:02,495  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:02,505  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:02,535  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:03,275  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:04,035  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:24,806  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:25,305  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:25,955  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:78 - Program end
+2022-04-17 10:51:29,985  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-17 10:51:29,985  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 10:51:32,514  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:51:32,528  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:51:32,535  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:51:32,857  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:51:52,015  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:52,535  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:52,795  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:53,015  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:51:53,145  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:53,185  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:53,225  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:53,265  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:51:53,335  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:53,375  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:53,395  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:53,425  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:51:53,495  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:53,516  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:53,535  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:51:53,559  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:52:13,585  INFO [TestNG-test=ChromeTest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 10:52:34,360  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-17 10:52:34,360  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-17 10:52:34,360  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-17 10:54:08,842  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:54:08,843  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:54:08,843  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:54:09,122  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:54:14,815  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:54:15,205  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:54:15,545  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:54:15,905  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:54:16,035  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:54:16,070  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:54:16,145  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:54:16,186  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:54:16,235  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:54:16,275  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:54:16,305  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:54:17,039  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:54:17,075  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:54:17,805  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:55:24,615  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:55:24,615  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:55:24,615  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:55:24,822  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 10:55:31,769  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:55:31,894  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:55:32,028  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:55:32,177  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:55:32,376  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:55:32,406  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:55:32,437  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:55:32,464  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:55:32,495  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:55:32,764  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:55:32,792  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:55:32,822  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:55:32,853  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:55:32,856  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 10:55:33,083  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:55:33,301  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:55:34,248  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 10:55:38,235  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-17 10:55:40,112  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:55:40,239  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:55:40,278  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:55:40,308  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 10:55:50,175  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 10:56:18,183  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 10:56:19,827  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 10:56:22,694  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 10:56:22,810  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 10:56:22,847  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 10:56:22,879  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 10:56:22,906  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 10:56:22,978  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 10:56:23,010  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 10:56:23,033  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 10:56:23,069  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 10:56:23,121  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:56:23,150  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:56:23,183  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:56:23,219  INFO [TestNG-test=ChromeTest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 10:57:03,313  INFO [TestNG-test=ChromeTest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 10:57:04,007  INFO [TestNG-test=ChromeTest-2] sauceDemo5:78 - Program end
+2022-04-17 10:57:04,008  INFO [TestNG-test=ChromeTest-1] sauceDemo5:78 - Program end
+2022-04-17 10:57:04,007  INFO [TestNG-test=ChromeTest-4] sauceDemo5:78 - Program end
+2022-04-17 11:21:41,277  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:21:41,571  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:21:41,750  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:21:42,978  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:21:44,892  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 11:21:45,102  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 11:21:45,129  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 11:21:49,002  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 11:21:49,162  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 11:21:49,202  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 11:21:49,232  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 11:21:49,252  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 11:21:49,307  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 11:21:49,332  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 11:21:49,352  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 11:21:49,387  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 11:21:50,123  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:21:50,855  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:21:51,362  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:21:52,074  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:22:17,542  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 11:22:20,025  INFO [TestNG-test=ChromeTest-3] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:22:20,193  INFO [TestNG-test=ChromeTest-1] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:22:20,308  INFO [TestNG-test=ChromeTest-4] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:22:20,430  INFO [TestNG-test=ChromeTest-2] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:22:22,999  INFO [TestNG-test=ChromeTest-3] sauceDemo5:57 - URL is opened
+2022-04-17 11:22:23,374  INFO [TestNG-test=ChromeTest-1] sauceDemo5:57 - URL is opened
+2022-04-17 11:22:23,569  INFO [TestNG-test=ChromeTest-4] sauceDemo5:57 - URL is opened
+2022-04-17 11:22:23,832  INFO [TestNG-test=ChromeTest-2] sauceDemo5:57 - URL is opened
+2022-04-17 11:22:24,068  INFO [TestNG-test=ChromeTest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 11:22:24,123  INFO [TestNG-test=ChromeTest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 11:22:24,178  INFO [TestNG-test=ChromeTest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 11:22:24,263  INFO [TestNG-test=ChromeTest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 11:22:24,360  INFO [TestNG-test=ChromeTest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 11:22:24,439  INFO [TestNG-test=ChromeTest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 11:22:24,500  INFO [TestNG-test=ChromeTest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 11:22:24,577  INFO [TestNG-test=ChromeTest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 11:22:24,697  INFO [TestNG-test=ChromeTest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:22:24,755  INFO [TestNG-test=ChromeTest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:22:24,806  INFO [TestNG-test=ChromeTest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:23:27,617  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:23:27,617  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:23:28,597  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:23:28,632  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:23:34,552  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 11:23:34,886  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 11:23:37,187  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 11:23:37,503  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 11:23:37,746  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 11:23:37,789  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 11:23:37,844  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 11:23:37,899  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 11:23:37,955  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 11:23:38,002  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 11:23:38,101  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 11:23:38,383  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:23:38,612  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:23:38,652  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 11:23:38,652  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:23:38,892  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:23:39,793  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 11:23:43,832  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:78 - Program end
+2022-04-17 11:23:43,832  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:78 - Program end
+2022-04-17 11:33:53,120  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:33:53,121  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:33:53,308  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:33:54,111  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:33:55,006  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 11:33:55,321  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 11:33:55,506  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 11:33:55,576  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 11:33:55,711  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 11:33:55,751  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 11:33:55,801  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 11:33:55,832  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 11:33:55,871  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 11:33:55,931  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 11:33:55,951  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 11:33:55,986  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 11:33:56,722  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:33:57,461  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:33:57,962  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:34:17,981  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:34:18,716  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:34:19,678  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:78 - Program end
+2022-04-17 11:38:27,491  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:38:27,491  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:38:27,491  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:38:28,756  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:38:29,381  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:57 - URL is opened
+2022-04-17 11:38:29,854  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:57 - URL is opened
+2022-04-17 11:38:30,269  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:57 - URL is opened
+2022-04-17 11:38:32,422  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:57 - URL is opened
+2022-04-17 11:38:32,678  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:64 - Username is Entered
+2022-04-17 11:38:32,741  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:64 - Username is Entered
+2022-04-17 11:38:32,788  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:64 - Username is Entered
+2022-04-17 11:38:32,833  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:64 - Username is Entered
+2022-04-17 11:38:32,880  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:67 - Password is Entered
+2022-04-17 11:38:32,951  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:67 - Password is Entered
+2022-04-17 11:38:33,002  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:67 - Password is Entered
+2022-04-17 11:38:33,281  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:38:33,321  INFO [TestNG-test=Firefoxtest-3] sauceDemo5:67 - Password is Entered
+2022-04-17 11:38:33,551  INFO [TestNG-test=Firefoxtest-1] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:38:33,551  INFO [TestNG-test=Firefoxtest-2] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:38:33,799  INFO [TestNG-test=Firefoxtest-4] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:39:32,473  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:39:33,701  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:39:33,915  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:39:34,011  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:39:34,343  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:39:34,791  INFO [main] sauceDemo5:19 - Click on menu Button
+2022-04-17 11:39:35,051  INFO [main] sauceDemo5:22 - Click on Logout Button
+2022-04-17 11:39:35,051  INFO [main] sauceDemo5:27 - Apply the assertion
+2022-04-17 11:39:35,051  INFO [main] sauceDemo5:29 - Checking the results
+2022-04-17 11:39:36,191  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:39:39,991  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:39:41,096  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:39:41,226  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:39:41,304  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:39:41,681  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:39:41,692  INFO [main] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:39:41,692  INFO [main] sauceDemo5:22 - Checking the results
+2022-04-17 11:39:42,166  INFO [main] sauceDemo5:36 - Click on menu Button
+2022-04-17 11:39:42,441  INFO [main] sauceDemo5:39 - Click on Logout Button
+2022-04-17 11:39:43,501  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:39:47,281  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:39:48,095  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:39:48,286  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:39:48,381  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:39:48,711  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:39:51,031  INFO [main] sauceDemo5:21 - Click on cart button
+2022-04-17 11:39:51,071  INFO [main] sauceDemo5:26 - 6
+2022-04-17 11:39:51,071  INFO [main] sauceDemo5:28 - Apply the assertions 
+2022-04-17 11:39:51,071  INFO [main] sauceDemo5:30 - Checkind the results
+2022-04-17 11:39:52,161  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:39:56,416  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:39:57,961  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:39:58,141  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:39:58,233  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:39:58,581  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:39:58,841  INFO [main] sauceDemo5:21 - Clisk on bag button
+2022-04-17 11:39:58,841  INFO [main] sauceDemo5:29 - Apply the assertions
+2022-04-17 11:39:58,841  INFO [main] sauceDemo5:31 - Checking the results
+2022-04-17 11:39:59,881  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:03,756  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:45:05,940  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:06,116  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:06,189  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:06,470  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:06,900  INFO [main] sauceDemo5:19 - Click on menu Button
+2022-04-17 11:45:07,170  INFO [main] sauceDemo5:22 - Click on Logout Button
+2022-04-17 11:45:07,178  INFO [main] sauceDemo5:27 - Apply the assertion
+2022-04-17 11:45:07,180  INFO [main] sauceDemo5:29 - Checking the results
+2022-04-17 11:45:08,170  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:11,953  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:45:13,342  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:13,510  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:13,628  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:13,960  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:13,960  INFO [main] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:45:13,970  INFO [main] sauceDemo5:22 - Checking the results
+2022-04-17 11:45:14,429  INFO [main] sauceDemo5:36 - Click on menu Button
+2022-04-17 11:45:14,681  INFO [main] sauceDemo5:39 - Click on Logout Button
+2022-04-17 11:45:15,660  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:19,960  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:45:21,605  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:21,763  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:21,825  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:22,164  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:24,430  INFO [main] sauceDemo5:21 - Click on cart button
+2022-04-17 11:45:24,470  INFO [main] sauceDemo5:26 - 6
+2022-04-17 11:45:24,470  INFO [main] sauceDemo5:28 - Apply the assertions 
+2022-04-17 11:45:24,470  INFO [main] sauceDemo5:30 - Checkind the results
+2022-04-17 11:45:25,610  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:29,395  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:45:31,970  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:32,083  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:32,136  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:32,440  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:32,700  INFO [main] sauceDemo5:21 - Clisk on bag button
+2022-04-17 11:45:32,700  INFO [main] sauceDemo5:29 - Apply the assertions
+2022-04-17 11:45:32,700  INFO [main] sauceDemo5:31 - Checking the results
+2022-04-17 11:45:33,740  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:35,226  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:45:37,747  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:37,859  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:37,974  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:38,133  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:38,354  INFO [main] sauceDemo5:19 - Click on menu Button
+2022-04-17 11:45:38,434  INFO [main] sauceDemo5:22 - Click on Logout Button
+2022-04-17 11:45:38,441  INFO [main] sauceDemo5:27 - Apply the assertion
+2022-04-17 11:45:38,442  INFO [main] sauceDemo5:29 - Checking the results
+2022-04-17 11:45:39,287  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:40,689  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:45:42,503  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:42,625  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:42,729  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:42,871  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:42,880  INFO [main] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:45:42,881  INFO [main] sauceDemo5:22 - Checking the results
+2022-04-17 11:45:43,092  INFO [main] sauceDemo5:36 - Click on menu Button
+2022-04-17 11:45:43,188  INFO [main] sauceDemo5:39 - Click on Logout Button
+2022-04-17 11:45:43,926  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:45,305  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:45:46,501  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:46,623  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:46,745  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:46,882  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:48,858  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:45:50,229  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:45:51,495  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:45:51,642  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:45:51,770  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:45:51,922  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:45:52,019  INFO [main] sauceDemo5:21 - Clisk on bag button
+2022-04-17 11:45:52,027  INFO [main] sauceDemo5:29 - Apply the assertions
+2022-04-17 11:45:52,027  INFO [main] sauceDemo5:31 - Checking the results
+2022-04-17 11:45:52,788  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:03,302  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:48:05,005  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:05,170  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:05,257  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:05,580  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:06,030  INFO [main] sauceDemo5:19 - Click on menu Button
+2022-04-17 11:48:06,310  INFO [main] sauceDemo5:22 - Click on Logout Button
+2022-04-17 11:48:06,310  INFO [main] sauceDemo5:27 - Apply the assertion
+2022-04-17 11:48:06,320  INFO [main] sauceDemo5:29 - Checking the results
+2022-04-17 11:48:07,390  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:11,240  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:48:13,210  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:13,324  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:13,396  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:13,716  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:13,721  INFO [main] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:48:13,721  INFO [main] sauceDemo5:22 - Checking the results
+2022-04-17 11:48:14,163  INFO [main] sauceDemo5:36 - Click on menu Button
+2022-04-17 11:48:14,420  INFO [main] sauceDemo5:39 - Click on Logout Button
+2022-04-17 11:48:15,460  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:19,730  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:48:21,715  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:21,860  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:21,938  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:22,262  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:24,490  INFO [main] sauceDemo5:21 - Click on cart button
+2022-04-17 11:48:24,540  INFO [main] sauceDemo5:26 - 6
+2022-04-17 11:48:24,540  INFO [main] sauceDemo5:28 - Apply the assertions 
+2022-04-17 11:48:24,540  INFO [main] sauceDemo5:30 - Checkind the results
+2022-04-17 11:48:25,534  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:29,290  INFO [main] sauceDemo5:39 - firefox Browser is opened
+2022-04-17 11:48:31,170  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:31,322  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:31,418  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:31,770  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:32,050  INFO [main] sauceDemo5:21 - Clisk on bag button
+2022-04-17 11:48:32,050  INFO [main] sauceDemo5:29 - Apply the assertions
+2022-04-17 11:48:32,050  INFO [main] sauceDemo5:31 - Checking the results
+2022-04-17 11:48:33,090  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:34,457  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:48:35,730  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:35,850  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:35,970  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:36,135  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:36,371  INFO [main] sauceDemo5:19 - Click on menu Button
+2022-04-17 11:48:36,450  INFO [main] sauceDemo5:22 - Click on Logout Button
+2022-04-17 11:48:36,460  INFO [main] sauceDemo5:27 - Apply the assertion
+2022-04-17 11:48:36,460  INFO [main] sauceDemo5:29 - Checking the results
+2022-04-17 11:48:37,233  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:38,580  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:48:40,259  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:40,378  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:40,496  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:40,643  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:40,650  INFO [main] sauceDemo5:20 - Apply the assertions
+2022-04-17 11:48:40,651  INFO [main] sauceDemo5:22 - Checking the results
+2022-04-17 11:48:40,889  INFO [main] sauceDemo5:36 - Click on menu Button
+2022-04-17 11:48:40,991  INFO [main] sauceDemo5:39 - Click on Logout Button
+2022-04-17 11:48:41,853  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:43,188  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:48:44,865  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:45,025  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:45,145  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:45,282  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:46,073  INFO [main] sauceDemo5:21 - Click on cart button
+2022-04-17 11:48:46,104  INFO [main] sauceDemo5:26 - 6
+2022-04-17 11:48:46,105  INFO [main] sauceDemo5:28 - Apply the assertions 
+2022-04-17 11:48:46,105  INFO [main] sauceDemo5:30 - Checkind the results
+2022-04-17 11:48:46,915  INFO [main] sauceDemo5:78 - Program end
+2022-04-17 11:48:48,286  INFO [main] sauceDemo5:47 - Chrome Browser is opened
+2022-04-17 11:48:49,469  INFO [main] sauceDemo5:57 - URL is opened
+2022-04-17 11:48:49,614  INFO [main] sauceDemo5:64 - Username is Entered
+2022-04-17 11:48:49,723  INFO [main] sauceDemo5:67 - Password is Entered
+2022-04-17 11:48:49,867  INFO [main] sauceDemo5:70 - Click on Login Button
+2022-04-17 11:48:49,962  INFO [main] sauceDemo5:21 - Clisk on bag button
+2022-04-17 11:48:49,968  INFO [main] sauceDemo5:29 - Apply the assertions
+2022-04-17 11:48:49,969  INFO [main] sauceDemo5:31 - Checking the results
+2022-04-17 11:48:50,783  INFO [main] sauceDemo5:78 - Program end
