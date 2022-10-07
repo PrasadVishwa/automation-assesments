@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1045" started-at="2022-04-12T18:34:42 IST" finished-at="2022-04-12T18:34:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1045" started-at="2022-04-12T18:34:42 IST" finished-at="2022-04-12T18:34:43 IST">
+      <class name="com.sauceDemo.PracticePackage.TestNG12">
+        <test-method status="PASS" signature="blogin()[pri:0, instance:com.sauceDemo.PracticePackage.TestNG12@45820e51]" name="blogin" duration-ms="1013" started-at="2022-04-12T18:34:42 IST" finished-at="2022-04-12T18:34:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blogin -->
+      </class> <!-- com.sauceDemo.PracticePackage.TestNG12 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
